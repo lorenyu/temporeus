@@ -1,0 +1,2 @@
+<%@ WebService Class=PhotoMosaic.PhotoMosaicClass %>
+
